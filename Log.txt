@@ -42,7 +42,7 @@ Dec  9 23:50:03 server sshd[15001]: Failed password for root from 192.168.2.200 
 
 Dec  9 23:50:05 server sshd[15001]: Failed password for root from 192.168.2.200 port 22 ssh2
 
-Dec  9 23:52:40 server sshd[15010]: Accepted password for root from 192.168.2.200 port 22 ssh2
+Dec  9 23:52:40 server sshd[15010]: Failed password for root from 192.168.2.200 port 22 ssh2
 
 Dec  9 23:52:40 server sshd[15010]: pam_unix(sshd:session): session opened for user root by (uid=0)
 
